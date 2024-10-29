@@ -1,0 +1,1 @@
+Esta aplicação é um sistema de chat em tempo real construído com Go, que utiliza WebSockets para permitir a comunicação bidirecional entre o servidor e múltiplos clientes. A estrutura foi projetada para criar uma experiência de chat simples, onde os usuários podem enviar e receber mensagens instantaneamente por meio de uma interface web.
